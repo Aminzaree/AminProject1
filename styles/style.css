@@ -520,6 +520,7 @@ header nav ul li a svg{
         width: 100%;
         height: auto;
         display: none;
+        z-index: 1;
     }
 
     header nav .navbar ul{
